@@ -1,0 +1,68 @@
+body {
+font-family: 'Raleway', sans-serif;
+}
+
+.bloc {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.title {
+  color: #fff;
+  font-weight: 400;
+  margin: 0;
+}
+
+hr {
+  background-color: #fff;
+  margin: 0;
+}
+
+.info {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  margin: auto;
+  list-style: none;
+  margin-left:0;
+  padding-left:0;
+}
+
+.space {
+  padding-bottom: 2px;
+}
+
+.link {
+  color: #fff;
+  font-weight: 500;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #A8ADC1;
+}
+
+.fa {
+  color: #fff;
+}
+
+.copyright {
+  border-bottom-style: solid;
+  border-bottom-color: #13637F;
+  border-bottom-width: 1px;
+  background-color: #fff;
+  color: #2D3C3F;
+  text-align: center;
+  padding: 8px;
+  font-size: 12px;
+}
+
+.linkThanks {
+  color: #A8ADC1;
+  font-weight: 500;
+}
+
+.linkThanks:hover {
+  text-decoration: none;
+  color: #13637F;
+}
